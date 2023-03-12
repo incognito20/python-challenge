@@ -3,8 +3,7 @@
 
 ## PyBank
 
-### PyBank analyzes a financial dataset that is composed of date and Profit/Losses. The script will analyze
-### records to calculate the following values:
+### PyBank analyzes a financial dataset that is composed of date and Profit/Losses. The script will analyze records to calculate the following values:
 
 1. The total number of months in the dataset.
 2. The net total amount of Profit/Loss over the entire period.
