@@ -1,10 +1,10 @@
-# python-challenge
+### python-challenge
 # Module 3 - PyBank and PyPoll
 
-# PyBank
+## PyBank
 
-# PyBank analyzes a financial dataset that is composed of date and Profit/Losses. The script will analyze
-# records to calculate the following values:
+### PyBank analyzes a financial dataset that is composed of date and Profit/Losses. The script will analyze
+### records to calculate the following values:
 
 1. The total number of months in the dataset.
 2. The net total amount of Profit/Loss over the entire period.
@@ -13,9 +13,9 @@
 5. The greatest increase in profits (date and amount) over the entire period.
 6. The greatest decrease in profits (date and amount) over the entire period.
 
-# The results of the analysis will be printed to the terminal window as well as to a text file in the analysis folder.
+### The results of the analysis will be printed to the terminal window as well as to a text file in the analysis folder.
 
-### Files
+## Files
 
 * budget_data.csv - Script file containing the raw financial information.
 
@@ -31,7 +31,7 @@
 
 # PyPoll
 
-# PyPoll analyzes an election dataset that is composed of Voter ID, County, and Candidate. The script will analyze the election results and provide the following:
+### PyPoll analyzes an election dataset that is composed of Voter ID, County, and Candidate. The script will analyze the election results and provide the following:
 
 1. The total number of votes cast.
 2. A complete list of candidates who received votes.
@@ -40,9 +40,9 @@
 5. The winner of the election based on popular vote.
 
 
-# The results of the analysis will be printed to the terminal window as well as to a text file in the analysis folder.
+### The results of the analysis will be printed to the terminal window as well as to a text file in the analysis folder.
 
-### Files
+## Files
 
 * election_data.csv - Script file containing the raw election data.
 
