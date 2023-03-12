@@ -1,7 +1,7 @@
 # python-challenge
 # Module 3 - PyBank and PyPoll
 
-# H1 PyBank
+# PyBank
 
 # PyBank analyzes a financial dataset that is composed of date and Profit/Losses. The script will analyze
 # records to calculate the following values:
@@ -29,7 +29,7 @@
 * The script will run on a csv using the two column format found in budget_data.csv.
  
 
-# H1 PyPoll
+# PyPoll
 
 # PyPoll analyzes an election dataset that is composed of Voter ID, County, and Candidate. The script will analyze the election results and provide the following:
 
